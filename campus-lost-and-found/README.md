@@ -61,7 +61,7 @@ The project includes a representative subset of the dataset in `data/raw_dataset
     ```bash
     python database_seeder.py
     ```
-    _Output:_ You will see `[+] Indexed...` messages for ~130 items.
+    _Output:_ You will see `[+] Indexed...` messages for ~6500 items.
 
 ### B. Launch the App
 
@@ -73,18 +73,17 @@ streamlit run app.py
 
 The app will open at http://localhost:8501.
 
-### C. Default Login
+### C. Sample Login/Register Credentials
 * **Username:** `SystemAdmin`
 * **Password:** `admin123`
-* *(Alternatively, register a new account on the Login page)*
+* **Contact:** 'student@mahindra.edu'
 
 ---
 
 ## 5. Technical Architecture & Constraints
 
-### ⚠️ Note on Dataset
-The Random Forest model (`modules/category_classifier.pkl`) was trained locally on the full **6,493 image dataset**. To keep this submission file size manageable, the `data/raw_dataset/` folder contains a **curated subset (~130 images)** sufficient for demonstration.
-
+### Note on Dataset
+The Random Forest model (`modules/category_classifier.pkl`) was trained locally on the full **~6,500 image dataset**. 
 ### Technical Stack
 * **Classification:** Random Forest (Scikit-Learn).
 * **Vision:** Histogram of Oriented Gradients (HOG) + HSV Color.
@@ -100,6 +99,7 @@ python evaluation/report_graphs.py
 ```
 
 - **Output:** Generates `evaluation_chart.png` demonstrating retrieval performance.
+
 
 
 
