@@ -6,4 +6,4 @@ Take this entire folder with ~6500 images contained in 13 sub folders (item cate
 
 This is the Google Drive link to the dataset:
 
-https://drive.google.com/drive/folders/1G3u9gr4P5dyOP1Bi-7a1nvLpCYpyhsKx?usp=drive_link
+https://drive.google.com/drive/folders/1aN7w_IJKSCAiNIJpYuvsEFiviswmKfoM?usp=drive_link
