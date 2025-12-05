@@ -1,0 +1,9 @@
+This dataset was used for training the Random Forest Model which created the category_classifier.plk in "modules" folders.
+
+It's not needed anymore. We're just giving it if you wish to train it yourself on your local machine.
+
+Take this entire folder with ~6500 images contained in 13 sub folders (item categories) and put it in the "data" folder and run database_seeder.py
+
+This is the Google Drive link to the dataset:
+
+https://drive.google.com/drive/folders/1G3u9gr4P5dyOP1Bi-7a1nvLpCYpyhsKx?usp=drive_link
