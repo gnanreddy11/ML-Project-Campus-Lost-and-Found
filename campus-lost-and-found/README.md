@@ -67,8 +67,9 @@ The project includes a representative subset of the dataset in `data/raw_dataset
 
 Start the web interface:
 
-````bash
+```bash
 streamlit run app.py
+~~~
 
 The app will open at http://localhost:8501.
 
@@ -96,7 +97,8 @@ To generate the accuracy graph used in the report:
 
 ```bash
 python evaluation/report_graphs.py
-````
+```
 
 - **Output:** Generates `evaluation_chart.png` demonstrating retrieval performance.
+
 
