@@ -69,7 +69,7 @@ Start the web interface:
 
 ```bash
 streamlit run app.py
-~~~
+```
 
 The app will open at http://localhost:8501.
 
@@ -100,5 +100,6 @@ python evaluation/report_graphs.py
 ```
 
 - **Output:** Generates `evaluation_chart.png` demonstrating retrieval performance.
+
 
 
