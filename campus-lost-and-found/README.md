@@ -1,14 +1,14 @@
 # Campus Lost and Found with AutoMatch
 
-# Done By:-
+## Done By:-
 
-# Name: P Harshini Sai | Roll no: SE25MAID003
+## Name: P Harshini Sai | Roll no: SE25MAID003
 
-# Name: Pranav P | Roll no: SE25MAID034
+## Name: Pranav P | Roll no: SE25MAID034
 
-# Name: K V VINAY KUMAR | Roll no: SE25MAID049
+## Name: K V VINAY KUMAR | Roll no: SE25MAID049
 
-# Name: Gnan Reddy | Roll no: SE25MAID051
+## Name: Gnan Reddy | Roll no: SE25MAID051
 
 ## 1. Project Overview
 
@@ -99,3 +99,4 @@ python evaluation/report_graphs.py
 ````
 
 - **Output:** Generates `evaluation_chart.png` demonstrating retrieval performance.
+
